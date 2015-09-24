@@ -2,4 +2,4 @@
 
 ## Test test. Hello world!!!
 
-:pizza!:
+:pizza:

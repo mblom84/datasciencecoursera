@@ -1,5 +1,5 @@
 ## This is a markdown file
 
 ## Test test. Hello world!!!
-### HEading 1
+### Heading 1
 :pizza:
